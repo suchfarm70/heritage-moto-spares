@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="brassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2D785"/>
+      <stop offset="50%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#8C6D2D"/>
+    </linearGradient>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#223354"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+  <!-- Outer Shield / Circle -->
+  <circle cx="32" cy="32" r="30" fill="url(#navyGrad)" stroke="url(#brassGrad)" stroke-width="2.5" filter="url(#glow)"/>
+  <circle cx="32" cy="32" r="26.5" fill="none" stroke="url(#brassGrad)" stroke-width="0.75" stroke-dasharray="2 1.5"/>
+  <!-- Winged motif -->
+  <path d="M 10 32 C 16 25, 25 24, 32 29 C 39 24, 48 25, 54 32 C 47 31, 41 27, 32 33 C 23 27, 17 31, 10 32 Z" fill="url(#brassGrad)" opacity="0.9"/>
+  <!-- Central Badge -->
+  <circle cx="32" cy="32" r="14" fill="#0B111E" stroke="url(#brassGrad)" stroke-width="1.8"/>
+  <text x="32" y="36.5" font-family="'Inter', 'Arial Black', sans-serif" font-weight="900" font-size="10.5" fill="url(#brassGrad)" text-anchor="middle" letter-spacing="1">HMS</text>
+  <!-- Top Heritage Star -->
+  <polygon points="32,9 33.2,11.8 36,12.2 34,14.1 34.5,17 32,15.5 29.5,17 30,14.1 28,12.2 30.8,11.8" fill="url(#brassGrad)"/>
+  <!-- Bottom Year Accent -->
+  <text x="32" y="56" font-family="'Inter', sans-serif" font-weight="700" font-size="5.5" fill="#C5A059" text-anchor="middle" letter-spacing="1.5">EST. 1974</text>
+</svg>

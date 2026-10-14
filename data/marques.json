@@ -1,0 +1,540 @@
+[
+  {
+    "id": "royal-enfield",
+    "name": "Royal Enfield India",
+    "era": "1955 \u2013 2008 (Cast Iron & Pre-Unit)",
+    "factory": "Tiruvottiyur, Madras & Redditch, Worcestershire",
+    "image": "images/royal-enfield-classic.jpg",
+    "description": "Originally founded in Redditch, UK, and assembled by Enfield India in Madras from 1955. Revered across Delhi NCR and Punjab for its heavy-crankshaft 350cc and 500cc overhead-valve Cast Iron engines with separate pre-unit 4-speed gearboxes and right-side neutral finders.",
+    "popular_models": [
+      {
+        "name": "Bullet 350 (Cast Iron G2 / B1)",
+        "years": "1955\u20132008",
+        "engine": "346cc Single Cylinder OHV",
+        "bore_stroke": "70mm x 90mm",
+        "carburetor": "Mikcarb VM24 / Amal Monobloc"
+      },
+      {
+        "name": "Bullet 500 (Cast Iron)",
+        "years": "1990\u20132008",
+        "engine": "499cc Single Cylinder OHV",
+        "bore_stroke": "84mm x 90mm",
+        "carburetor": "Mikcarb VM28"
+      },
+      {
+        "name": "Lightning 535 / Machismo",
+        "years": "1997\u20132002",
+        "engine": "535cc High-Torque Single",
+        "bore_stroke": "87mm x 90mm",
+        "carburetor": "Dell'Orto PHF32 / Mikcarb"
+      }
+    ],
+    "key_technical_points": [
+      "British Standard Cycle (CEI 26 TPI) fastener threads on chassis up to early 1970s.",
+      "Separate pre-unit gearbox requiring independent EP-90 gear oil and dry/semi-wet primary chaincase.",
+      "Dry-sump lubrication with dual reciprocating plunger oil pumps (feed & scavenge)."
+    ]
+  },
+  {
+    "id": "yezdi",
+    "name": "Yezdi & Jawa",
+    "era": "1960 \u2013 1996",
+    "factory": "Ideal Jawa (India) Private Limited, Yadavagiri, Mysore",
+    "image": "images/jawa-classic.jpg",
+    "description": "Built under Czechoslovakian license from 1960, later rebranded as Yezdi in 1973. Celebrated for its unique semi-automatic clutch release mechanism, dual exhaust ports, and rugged two-stroke engineering suited for Indian terrain.",
+    "popular_models": [
+      {
+        "name": "Yezdi Roadking",
+        "years": "1978\u20131996",
+        "engine": "246.3cc Single 2-Stroke Dual Port",
+        "bore_stroke": "65mm x 74.2mm",
+        "carburetor": "Pacco P47R (26mm)"
+      },
+      {
+        "name": "Jawa 250 Type 353",
+        "years": "1960\u20131973",
+        "engine": "248.5cc Czech Streamlined Two-Stroke",
+        "bore_stroke": "65mm x 75mm",
+        "carburetor": "Jikov 2926 / Pacco"
+      },
+      {
+        "name": "Yezdi Monarch & Classic",
+        "years": "1978\u20131992",
+        "engine": "246.3cc Single Two-Stroke",
+        "bore_stroke": "65mm x 74.2mm",
+        "carburetor": "Pacco P47R"
+      }
+    ],
+    "key_technical_points": [
+      "Semi-automatic clutch: gear shift lever simultaneously operates clutch release cam.",
+      "Combined kick-starter and gear shifter on a single co-axial shaft with push-and-rotate engagement.",
+      "Dual exhaust headers exiting into twin fluted chrome silencers."
+    ]
+  },
+  {
+    "id": "rajdoot",
+    "name": "Rajdoot (Escorts)",
+    "era": "1962 \u2013 1990",
+    "factory": "Escorts Limited Motorcycle Division, Faridabad, Haryana",
+    "image": "images/rajdoot-175-classic.jpg",
+    "description": "The quintessential North Indian utilitarian two-stroke workhorse. Built by Escorts in Faridabad under Polish SHL M11 license. Legendary for its Earles-type leading-link front suspension, unbreakable 173cc single engine, and the iconic 'Bobby' GTS 175 runabout.",
+    "popular_models": [
+      {
+        "name": "Rajdoot 175 Standard / Deluxe",
+        "years": "1962\u20131990",
+        "engine": "173cc Single Cylinder 2-Stroke (Polish W-2A)",
+        "bore_stroke": "61.5mm x 58mm",
+        "carburetor": "Pacco 24mm / Jikov"
+      },
+      {
+        "name": "Rajdoot GTS 175 ('Bobby')",
+        "years": "1973\u20131984",
+        "engine": "173cc Compact Monkey-Bike Format",
+        "bore_stroke": "61.5mm x 58mm",
+        "carburetor": "Pacco 24mm"
+      },
+      {
+        "name": "Rajdoot 175 Excel-T",
+        "years": "1984\u20131990",
+        "engine": "173cc CDI Electronic Upgrade",
+        "bore_stroke": "61.5mm x 58mm",
+        "carburetor": "Mikcarb 24mm"
+      }
+    ],
+    "key_technical_points": [
+      "Leading-link (Earles type) front forks providing plush damping over unpaved village roads.",
+      "3-speed constant-mesh transmission with heavy-duty wet multi-plate cork clutch.",
+      "Villiers-derived transfer porting with high low-end torque pull under heavy payloads."
+    ]
+  },
+  {
+    "id": "yamaha",
+    "name": "Yamaha India (RX100 & RD350)",
+    "era": "1983 \u2013 1998",
+    "factory": "Escorts Yamaha, Surajpur & Faridabad, Haryana",
+    "image": "images/yamaha-rx100-classic.jpg",
+    "description": "The undisputed high-revving legends of Indian two-stroke motorcycling. Escorts Yamaha introduced the blistering twin-cylinder RD350 in 1983 and the cult-classic RX100 in 1985 with authentic Japanese 7-port cylinder castings and Mikuni carburetors.",
+    "popular_models": [
+      {
+        "name": "Yamaha RX100 (Made in Japan / CKD)",
+        "years": "1985\u20131996",
+        "engine": "98cc 7-Port 2-Stroke Single (11 bhp @ 7,500 RPM)",
+        "bore_stroke": "50mm x 50mm",
+        "carburetor": "Mikuni VM20 (Round Slide)"
+      },
+      {
+        "name": "Rajdoot 350 High Torque (HT)",
+        "years": "1983\u20131985",
+        "engine": "347cc Parallel-Twin 2-Stroke (30.5 bhp)",
+        "bore_stroke": "64mm x 54mm",
+        "carburetor": "Twin Mikuni VM28SC"
+      },
+      {
+        "name": "Yamaha RX135 (4-Speed / 5-Speed)",
+        "years": "1997\u20132003",
+        "engine": "132cc 7-Port 2-Stroke Single (14 bhp)",
+        "bore_stroke": "58mm x 50mm",
+        "carburetor": "Mikuni VM22"
+      }
+    ],
+    "key_technical_points": [
+      "Yamaha 7-port cylinder induction with 4-petal stainless/fiberglass reed valve block.",
+      "Autolube mechanical variable-displacement oil pump driven off crankshaft.",
+      "Early 1985-1988 batches feature 'Made in Japan' embossed crankcase halves and 1E7 barrels."
+    ]
+  },
+  {
+    "id": "bajaj",
+    "name": "Bajaj Auto (Chetak & Super)",
+    "era": "1972 \u2013 2005",
+    "factory": "Bajaj Auto Limited, Akurdi & Waluj, Pune, Maharashtra",
+    "image": "images/vespa-classic.jpg",
+    "description": "'Hamara Bajaj'\u2014the defining mobility vehicle of urban and semi-urban India. Derived from Piaggio Vespa 150 Sprint tooling, featuring a direct-drive rotary valve two-stroke engine, 4-speed hand twist shifter, and solid pressed-steel monocoque chassis.",
+    "popular_models": [
+      {
+        "name": "Bajaj Chetak 150",
+        "years": "1972\u20132005",
+        "engine": "145.5cc Rotary Valve 2-Stroke (7.5 bhp)",
+        "bore_stroke": "57mm x 57mm",
+        "carburetor": "Spaco / Dell'Orto SI 20/20D"
+      },
+      {
+        "name": "Bajaj Super 150",
+        "years": "1976\u20131996",
+        "engine": "145.5cc 2-Stroke Cast Iron Barrel",
+        "bore_stroke": "57mm x 57mm",
+        "carburetor": "Spaco 20/20"
+      },
+      {
+        "name": "Priya 150 (Maharashtra Scooters)",
+        "years": "1976\u20131992",
+        "engine": "145.5cc Licensed Rotary Valve Single",
+        "bore_stroke": "57mm x 57mm",
+        "carburetor": "Spaco 20/20"
+      }
+    ],
+    "key_technical_points": [
+      "Rotary pad crankshaft timing dispensing with reed valves for zero maintenance.",
+      "Direct engine-to-rear-wheel transmission without secondary chain or belt drive.",
+      "Handlebar 4-speed twist grip gear selector utilizing twin push-pull cables."
+    ]
+  },
+  {
+    "id": "herohonda",
+    "name": "Hero Honda Classics (CD100)",
+    "era": "1985 \u2013 2000",
+    "factory": "Hero Honda Motors Limited, Dharuhera & Gurgaon, Haryana",
+    "image": "images/hero-honda-cd100.jpg",
+    "description": "'Fill It, Shut It, Forget It'\u2014the machine that ushered in India's modern 4-stroke commuter revolution in 1985. The Japanese Honda OHC horizontal cylinder engine with cast-iron sleeve and Keihin carburetor delivered legendary 80+ km/l fuel economy.",
+    "popular_models": [
+      {
+        "name": "Hero Honda CD100 (Japanese CKD)",
+        "years": "1985\u20131996",
+        "engine": "97.2cc Horizontal 4-Stroke OHC (7.4 bhp)",
+        "bore_stroke": "50mm x 49.5mm",
+        "carburetor": "Keihin PB16 Slide Carb"
+      },
+      {
+        "name": "Hero Honda CD100 SS / Sleek",
+        "years": "1991\u20131997",
+        "engine": "97.2cc Horizontal OHC Single",
+        "bore_stroke": "50mm x 49.5mm",
+        "carburetor": "Keihin PB16"
+      },
+      {
+        "name": "Hero Honda Splendor (Early Gen)",
+        "years": "1994\u20132000",
+        "engine": "97.2cc Honda Japan Casting Engine",
+        "bore_stroke": "50mm x 49.5mm",
+        "carburetor": "Keihin PB16"
+      }
+    ],
+    "key_technical_points": [
+      "Horizontal cylinder layout with overhead camshaft (OHC) driven by DID silent timing chain.",
+      "Pressure-fed trochoid oil pump providing pressurized lubrication to cylinder head and camshaft.",
+      "Early 1985-1991 engines feature 'Honda Motor Co Japan' embossed crankcase covers."
+    ]
+  },
+  {
+    "id": "triumph",
+    "name": "Classic Triumph",
+    "era": "1959 \u2013 1983 (Meriden Era)",
+    "factory": "Meriden Works, Coventry, Warwickshire, England",
+    "image": "images/triumph-amal-carbs.jpg",
+    "description": "The quintessential British twin. The 360-degree parallel-twin engine with twin Amal carburetors delivered unmatched top speed and racing pedigree at the Isle of Man TT and Daytona.",
+    "popular_models": [
+      {
+        "name": "Bonneville T120",
+        "years": "1959\u20131974",
+        "engine": "649cc 360\u00b0 Parallel-Twin OHV",
+        "bore_stroke": "71mm x 82mm",
+        "carburetor": "Twin Amal 930 Concentric"
+      },
+      {
+        "name": "Tiger 650 (TR6)",
+        "years": "1956\u20131973",
+        "engine": "649cc Single-Carb Parallel-Twin",
+        "bore_stroke": "71mm x 82mm",
+        "carburetor": "Single Amal 930 Concentric"
+      }
+    ],
+    "key_technical_points": [
+      "CEI (26 TPI) on early cycle parts, transitioning to UNF/UNC after 1969.",
+      "Lucas RM21 encapsulated alternator charging systems with Zener diode heat sinks.",
+      "Girling 315mm / 325mm stepped preload shock absorbers."
+    ]
+  },
+  {
+    "id": "norton",
+    "name": "Norton",
+    "era": "1967 \u2013 1977 (Isolastic Era)",
+    "factory": "Andover, Hampshire & Bracebridge Street, Birmingham",
+    "image": "images/norton-classic.jpg",
+    "description": "Pioneered the rubber-buffered Isolastic frame system, isolating heavy parallel-twin vibrations from the rider while preserving razor-sharp handling.",
+    "popular_models": [
+      {
+        "name": "Commando 750",
+        "years": "1968\u20131973",
+        "engine": "745cc 360\u00b0 Parallel-Twin OHV",
+        "bore_stroke": "73mm x 89mm",
+        "carburetor": "Twin Amal 930 Concentric"
+      },
+      {
+        "name": "Commando 850 Interstate",
+        "years": "1973\u20131977",
+        "engine": "828cc Parallel-Twin OHV",
+        "bore_stroke": "77mm x 89mm",
+        "carburetor": "Twin Amal 932 Concentric"
+      }
+    ],
+    "key_technical_points": [
+      "Isolastic rubber mounts require precise clearance shimming (0.010\" tolerance) to prevent high-speed weave.",
+      "Roadholder telescopic front forks with internal two-way hydraulic damping.",
+      "Superblend NJ306E barrel-shaped roller main bearings on crankshaft."
+    ]
+  },
+  {
+    "id": "bsa",
+    "name": "BSA",
+    "era": "1953 \u2013 1972",
+    "factory": "Small Heath, Birmingham, England",
+    "image": "images/bsa-classic.jpg",
+    "description": "The Birmingham Small Arms company created the iconic Gold Star\u2014the supreme high-compression single cylinder clubman racer of the 1950s.",
+    "popular_models": [
+      {
+        "name": "Gold Star DBD34",
+        "years": "1953\u20131963",
+        "engine": "499cc High-Compression OHV Single",
+        "bore_stroke": "85mm x 88mm",
+        "carburetor": "Amal GP 1-3/8\" / Amal Concentric"
+      },
+      {
+        "name": "A65 Lightning",
+        "years": "1962\u20131972",
+        "engine": "654cc Unit Construction Twin",
+        "bore_stroke": "75mm x 74mm",
+        "carburetor": "Twin Amal 930 Concentric"
+      }
+    ],
+    "key_technical_points": [
+      "Dry-sump lubrication with high-pressure oil pump relief valve in timing chest.",
+      "Heavy 6-spring clutch setup engineered to handle high torque without slippage.",
+      "Whitworth (BSW) and British Standard Fine (BSF) fasteners across aluminum engine casings."
+    ]
+  },
+  {
+    "id": "honda",
+    "name": "Honda CB Classics",
+    "era": "1969 \u2013 1978",
+    "factory": "Hamamatsu & Suzuka, Japan",
+    "image": "images/honda-cb-classic.jpg",
+    "description": "The machine that coined the term 'Superbike'. The CB750 Four paired transverse 4-cylinder smoothness, electric start, and front hydraulic disc brakes.",
+    "popular_models": [
+      {
+        "name": "CB750 Four SOHC (K0\u2013K7)",
+        "years": "1969\u20131978",
+        "engine": "736cc Transverse Inline-Four SOHC",
+        "bore_stroke": "61mm x 63mm",
+        "carburetor": "Four Keihin 28mm Piston-Valve Carbs"
+      },
+      {
+        "name": "CB350 Super Sport Twin",
+        "years": "1968\u20131973",
+        "engine": "325cc Parallel-Twin OHC (180\u00b0 crank)",
+        "bore_stroke": "64mm x 50.6mm",
+        "carburetor": "Twin Keihin 32mm CV Carbs"
+      }
+    ],
+    "key_technical_points": [
+      "Dry-sump lubrication with separate oil tank in right-hand side cover.",
+      "4-into-4 exhaust system with staggered baffle cones.",
+      "Dual contact breaker points timed to 1-4 and 2-3 cylinder pairs."
+    ]
+  },
+  {
+    "id": "bmw",
+    "name": "BMW Motorrad Classic",
+    "era": "1950 \u2013 1979",
+    "factory": "Munich & Berlin-Spandau, Germany",
+    "image": "images/bmw-classic.jpg",
+    "description": "The benchmark for long-distance durability and touring refinement. Horizontally-opposed boxer twin with shaft drive, Earles leading-link front forks, and Bing constant depression carburetors.",
+    "popular_models": [
+      {
+        "name": "BMW R75 /5 & /6",
+        "years": "1969\u20131976",
+        "engine": "745cc Boxer Twin High-Cam OHV",
+        "bore_stroke": "82mm x 70.6mm",
+        "carburetor": "Twin Bing 32mm CV"
+      }
+    ],
+    "key_technical_points": [
+      "Enclosed shaft drive with spiral-bevel ring and pinion final drive gears.",
+      "High camshaft located below crankshaft running in pressure-fed sleeve bearings.",
+      "Bosch 12V 280W alternator with diode board."
+    ]
+  },
+  {
+    "id": "motoguzzi",
+    "name": "Moto Guzzi",
+    "era": "1967 \u2013 1982",
+    "factory": "Mandello del Lario, Lake Como, Italy",
+    "image": "images/motoguzzi-classic.jpg",
+    "description": "The legendary 90-degree transverse V-Twin with longitudinal crankshaft and shaft drive. Famous for high-speed motorway stability and unmistakable exhaust cadence.",
+    "popular_models": [
+      {
+        "name": "V7 Sport / Special",
+        "years": "1971\u20131974",
+        "engine": "748cc 90\u00b0 Transverse V-Twin OHV",
+        "bore_stroke": "82.5mm x 70mm",
+        "carburetor": "Twin Dell'Orto VHB 30mm"
+      }
+    ],
+    "key_technical_points": [
+      "Carcano-designed 90\u00b0 V-Twin with gear-driven camshaft between cylinders.",
+      "Brembo integral triple-disc braking system linked to foot pedal."
+    ]
+  },
+  {
+    "id": "ducati",
+    "name": "Ducati Meccanica",
+    "era": "1965 \u2013 1980",
+    "factory": "Borgo Panigale, Bologna, Italy",
+    "image": "images/ducati-classic.jpg",
+    "description": "Engineered by maestro Fabio Taglioni, famous for its bevel-gear driven camshafts and desmodromic valve actuation eliminating valve float at high RPM.",
+    "popular_models": [
+      {
+        "name": "750 Super Sport (Green Frame)",
+        "years": "1973\u20131974",
+        "engine": "748cc 90\u00b0 L-Twin Bevel Desmo",
+        "bore_stroke": "80mm x 74.4mm",
+        "carburetor": "Twin Dell'Orto PHM 40mm"
+      }
+    ],
+    "key_technical_points": [
+      "Bevel gear shaft tower driving camshafts with micro-shim backlash adjustment.",
+      "Desmodromic valve operation: mechanical cam closing arms replace traditional valve springs."
+    ]
+  },
+  {
+    "id": "lambretta",
+    "name": "Lambretta (Innocenti & API)",
+    "era": "1955 \u2013 1995",
+    "factory": "API Bhandup (Mumbai) & Scooters India Limited (Lucknow)",
+    "image": "images/lambretta-classic.jpg",
+    "description": "The iconic tubular-spine Italian scooter adapted and manufactured across India by Automobile Products of India in Mumbai and Scooters India in Lucknow.",
+    "popular_models": [
+      {
+        "name": "Lambretta Li 150 Series 2 & 3",
+        "years": "1959\u20131976",
+        "engine": "148cc Single Two-Stroke Horizontal",
+        "bore_stroke": "57mm x 58mm",
+        "carburetor": "Dell'Orto SH 1/20 / Spaco"
+      },
+      {
+        "name": "API Lamby 150",
+        "years": "1976\u20131988",
+        "engine": "148cc API Mumbai Assembled Two-Stroke",
+        "bore_stroke": "57mm x 58mm",
+        "carburetor": "Spaco 20mm"
+      }
+    ],
+    "key_technical_points": [
+      "Tubular steel spine frame with enclosed shaft/chain transmission.",
+      "Direct piston-port induction with 4-speed handlebar grip selector cable assembly."
+    ]
+  },
+  {
+    "id": "matchless",
+    "name": "Matchless & AJS",
+    "era": "1946 \u2013 1966",
+    "factory": "Plumstead, London, England",
+    "image": "images/matchless-classic.jpg",
+    "description": "Associated Motor Cycles (AMC) heavyweight singles and twins. Renowned for their heavy forged flywheels, 'Teledraulic' front forks, and unbreakable wet/dry sump engine architectures.",
+    "popular_models": [
+      {
+        "name": "Matchless G80 / AJS Model 18",
+        "years": "1946\u20131966",
+        "engine": "498cc Heavyweight Single OHV",
+        "bore_stroke": "82.5mm x 93mm",
+        "carburetor": "Amal Monobloc 389"
+      }
+    ],
+    "key_technical_points": [
+      "Teledraulic hydraulically damped front suspension with external duplex springs.",
+      "Lucas magneto ignition with manual handlebar advance/retard lever."
+    ]
+  },
+  {
+    "id": "harley",
+    "name": "Harley-Davidson Classic",
+    "era": "1940 \u2013 1952 (Flathead WLA Era)",
+    "factory": "Juneau Avenue, Milwaukee, Wisconsin, USA",
+    "image": "images/harley-wla-classic.jpg",
+    "description": "WWII military flathead 45ci V-twins and post-war Servi-Cars preserved in classic collections across Delhi and Mumbai.",
+    "popular_models": [
+      {
+        "name": "Harley-Davidson WLA 45",
+        "years": "1940\u20131952",
+        "engine": "740cc 45\u00b0 Sidevalve V-Twin (Flathead)",
+        "bore_stroke": "69.85mm x 96.85mm",
+        "carburetor": "Linkert M88 Brass Carb"
+      }
+    ],
+    "key_technical_points": [
+      "Sidevalve (Flathead) valve-in-block design with low compression for low-octane fuel.",
+      "Hand gear shift on left side of fuel tank with foot rocker clutch pedal."
+    ]
+  },
+  {
+    "id": "lml-vespa",
+    "name": "LML Vespa India",
+    "era": "1983 \u2013 2017",
+    "factory": "Lohia Machines Limited, Panki, Kanpur, Uttar Pradesh",
+    "image": "images/lml-vespa-classic.jpg",
+    "description": "Formed as a joint venture with Piaggio of Italy in 1983. Produced the iconic LML Vespa 150 NV, Select, Star, and T5 with 5-port cylinder blocks, 12V electronic CDI ignition, and modern reed-valve engines.",
+    "popular_models": [
+      {
+        "name": "LML Vespa 150 NV",
+        "years": "1986\u20131996",
+        "engine": "149.5cc 2-Stroke 5-Port Rotary",
+        "bore_stroke": "57.8mm x 57.0mm",
+        "carburetor": "Spaco SI 20/20E"
+      },
+      {
+        "name": "LML Vespa Select / Select II",
+        "years": "1993\u20132001",
+        "engine": "149.5cc Reed Valve / Rotary",
+        "bore_stroke": "57.8mm x 57.0mm",
+        "carburetor": "Spaco SI 20/20D"
+      },
+      {
+        "name": "LML Star 150 / Stella",
+        "years": "1999\u20132016",
+        "engine": "149.5cc 2-Stroke & 4-Stroke",
+        "bore_stroke": "57.8mm x 57.0mm",
+        "carburetor": "Keihin / Mikuni CV"
+      }
+    ],
+    "key_technical_points": [
+      "5-port scavenge transfer induction for higher top speed and smoother mid-range torque.",
+      "12V 80W electronic CDI ignition eliminating breaker points.",
+      "Flat-profile cruciform 4-speed sliding selector cross."
+    ]
+  },
+  {
+    "id": "kinetic-honda",
+    "name": "Kinetic Honda India",
+    "era": "1984 \u2013 1998",
+    "factory": "Kinetic Engineering & Honda Motor Co. Japan, Pithampur, Madhya Pradesh",
+    "image": "images/kinetic-honda-classic.jpg",
+    "description": "Revolutionary 1984 joint venture that brought Japan's Honda Lead NH90 technology to India. Pioneered electric start, push-button ease, automatic continuously variable transmission (CVT), and auto-choke.",
+    "popular_models": [
+      {
+        "name": "Kinetic Honda DX (98cc)",
+        "years": "1984\u20131998",
+        "engine": "97.8cc 2-Stroke Horizontal Single",
+        "bore_stroke": "49.0mm x 51.8mm",
+        "carburetor": "Keihin 16mm Automatic Thermo-Choke"
+      },
+      {
+        "name": "Kinetic Honda ZX",
+        "years": "1995\u20131998",
+        "engine": "97.8cc 2-Stroke Reed Induction",
+        "bore_stroke": "49.0mm x 51.8mm",
+        "carburetor": "Keihin 16mm Auto-Choke"
+      },
+      {
+        "name": "Kinetic Marvel 150",
+        "years": "1998\u20132001",
+        "engine": "149cc 4-Stroke Variator",
+        "bore_stroke": "57.4mm x 57.8mm",
+        "carburetor": "Keihin CVK"
+      }
+    ],
+    "key_technical_points": [
+      "Centrifugal dry clutch with V-belt variator transmission (no manual gearshifting or clutch lever).",
+      "12V Mitsuba high-torque electric starter motor with automatic Bendix pinion.",
+      "Automatic wax-pellet thermal auto-choke Keihin slide carburetor."
+    ]
+  }
+]

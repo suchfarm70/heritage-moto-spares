@@ -1,0 +1,37 @@
+# ==============================================================================
+# Heritage Moto Spares — robots.txt
+# Technical SEO Crawl Directives complying with CSET489 Syllabus (Dr. Saumitra Gangwar)
+# ==============================================================================
+
+# Global Crawler Directives
+User-agent: *
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /api/
+Disallow: /*?sort=
+Disallow: /*?sessionid=
+Disallow: /*?tracking=
+Disallow: /search?*
+Allow: /
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /data/
+
+# Googlebot Specific Rules
+User-agent: Googlebot
+Allow: /
+
+# Googlebot-Image Rules (Allow indexing of high-resolution vintage parts)
+User-agent: Googlebot-Image
+Allow: /images/
+Disallow: /images/private/
+
+# Bingbot Rules (Supports IndexNow)
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemaps: Sitemap Index & Primary XML Sitemap
+Sitemap: https://heritagemotospares.com/sitemap_index.xml
+Sitemap: https://heritagemotospares.com/sitemap.xml

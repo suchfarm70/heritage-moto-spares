@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Portal Pages -->
+  <url><loc>https://heritagemotospares.com/</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://heritagemotospares.com/about.html</loc><lastmod>2026-10-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://heritagemotospares.com/contact.html</loc><lastmod>2026-10-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://heritagemotospares.com/sitemap.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://heritagemotospares.com/rare-part-request/index.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+
+  <!-- Category & Assembly Hubs -->
+  <url><loc>https://heritagemotospares.com/parts/index.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/parts/engine-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/parts/carburetor-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/parts/electrical-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://heritagemotospares.com/parts/brake-clutch-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://heritagemotospares.com/parts/suspension-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://heritagemotospares.com/parts/discontinued.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- 18 Marque Specialist Hubs -->
+  <url><loc>https://heritagemotospares.com/motorcycles/royal-enfield.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/yamaha.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/jawa-yezdi.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/bajaj.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/lambretta.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/lml-vespa.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/kinetic-honda.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/scooters-india.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/rajdoot.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/herohonda.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/triumph.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/norton.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/bsa.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/honda.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/bmw.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/motoguzzi.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/ducati.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/matchless.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://heritagemotospares.com/motorcycles/harley.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Technical Restoration Guides (Pillar Content) -->
+  <url><loc>https://heritagemotospares.com/blog/index.html</loc><lastmod>2026-10-12</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://heritagemotospares.com/blog/how-to-find-rare-motorcycle-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://heritagemotospares.com/blog/identify-original-vs-reproduction-parts.html</loc><lastmod>2026-10-12</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+</urlset>
